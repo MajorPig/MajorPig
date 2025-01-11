@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MajorPig
-- 👀 I’m interested in ...
+- 👀 I’m interested in guns and cars
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on CRM software
+- 💞️ I’m looking to collaborate on Django Framework projects.
 - 📫 How to reach me ...
 
 <!---
